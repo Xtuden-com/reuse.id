@@ -15,7 +15,7 @@ click==6.7
 CommonMark==0.7.3
 docutils==0.13.1
 future==0.16.0
-idna==2.5
+idna==3.7
 imagesize==0.7.1
 Jinja2==2.10.3
 jsonpointer==2.0
